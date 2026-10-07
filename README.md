@@ -1,3 +1,3 @@
 # demo
 Only for practice
-Auther- musheer
+Author- musheer
